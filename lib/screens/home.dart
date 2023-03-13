@@ -72,8 +72,8 @@ class _homepageState extends State<homepage> {
         title: "Car Dekho".text.make(),
       ),
       body: SizedBox(
-        height:MediaQuery.of(context).size.height,
-        width:MediaQuery.of(context).size.width,
+        // height:MediaQuery.of(context).size.height,
+        // width:MediaQuery.of(context).size.width,
         child: SingleChildScrollView(
           child: Column(
             children: [
